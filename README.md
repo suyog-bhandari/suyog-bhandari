@@ -19,7 +19,13 @@
 
 ### 🚀 About Me
 
+I'm a self-taught frontend developer with a strong eye for clean design and user experience. I specialize in building responsive, accessible, and pixel-perfect web interfaces using HTML, CSS, JavaScript, and React.
+
+I love turning ideas into interactive websites and bringing design concepts to life with code. I'm always learning and exploring new technologies, frameworks, and design tools to level up my skills.
+
 - 🌱 I’m currently learning **ReactJS**
+- 💡 I enjoy building real-world projects to sharpen my skills
+- 🎯 My goal is to become a full-stack developer
 - 📫 Reach me at **suyog.bha.suyog1219@gmail.com**
 
 ---
